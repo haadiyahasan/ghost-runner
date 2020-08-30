@@ -23,6 +23,11 @@ tower.velocityY = 2;
 doorGroups = newGroup;
 climberGroups = newGroup;
 invisibleBlockGroup = newGroup;
+  
+  
+  
+  
+  
 
 ghost = createSprite(200,200,30,60);
 ghost.addImage(ghost,"ghost.Img");
